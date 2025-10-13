@@ -42,8 +42,8 @@ Email: lobilho1976u8@gmail.com
 GitHub :https://github.com/BernardoFonsecaRibeiro
 —
 **Mayara**
-Email: lobilho1976u8@gmail.com
-GitHub :https://github.com/BernardoFonsecaRibeiro
+Email: morceguinh0zx@gmail.com 
+GitHub: https://github.com/BernardoFonsecaRibeiro](https://github.com/Mayy-Silv4)
 —
 **Gustavo**
 Email:  gugaaccadrollifarias@gmail.com 
