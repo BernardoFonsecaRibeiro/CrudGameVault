@@ -16,6 +16,13 @@ Tecnologias Utilizadas:
 - Git/GitHub para versionamento
 - Canva 
 ---
+🎨 Wireframe do Projeto
+
+O design inicial da interface do GameVault foi desenvolvido no Canva.
+Você pode acessá-lo através do link abaixo:
+
+🔗 Visualizar Wireframe no Canva
+---
 Como Executar:
 1. **Clone o repositório**:
 ```bash
