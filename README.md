@@ -14,13 +14,19 @@ Tecnologias Utilizadas:
 - Java (JDK 17+ recomendado)
 - IDE: NetBeans 8.2
 - Git/GitHub para versionamento
-- Canva 
+- Canva
+---
+Banco de Dados:
+![WhatsApp Image 2025-10-15 at 15 40 24](https://github.com/user-attachments/assets/b3517bff-0e11-47ae-8768-0c3daa11eb3e)
+
 ---
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
 ![entrw](https://github.com/user-attachments/assets/d73727ab-2354-4fdc-93c1-f1493192b9a0)
 ![Capturar](https://github.com/user-attachments/assets/e6393dd3-c000-46a4-ab7b-93fa2547b818)
+
+---
 
 ---
 Como Executar:
