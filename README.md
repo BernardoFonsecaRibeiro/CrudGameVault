@@ -19,9 +19,9 @@ Tecnologias Utilizadas:
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
-Você pode acessá-lo através do link abaixo:
 
- https://www.canva.com/design/DAG1Ozsxd50/Dhy-le6R1O3xqWuuKol9dQ/edit?utm_content=DAG1Ozsxd50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Capturar](https://github.com/user-attachments/assets/2d752889-9ff4-4082-b869-17e545ba6561)
+
 
 ---
 Como Executar:
