@@ -20,6 +20,11 @@ Banco de Dados:
 ![WhatsApp Image 2025-10-15 at 15 40 24](https://github.com/user-attachments/assets/b3517bff-0e11-47ae-8768-0c3daa11eb3e)
 
 ---
+Mockup do Projeto:
+
+![View](https://github.com/user-attachments/assets/60e806a7-9f62-48c9-bbeb-fcc2a6c6530a)
+
+---
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
